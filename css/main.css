@@ -1,35 +1,50 @@
 html {
   background-color: #f2f1ed;
-  font-family: <link href="https://fonts.googleapis.com/css?family=Patua+One&display=swap" rel="stylesheet">, serif;
+  font-family: "Patua One", serif;
   line-height: 1.5;
 }
+
 img {
   width: 100%;
 }
+
 h1, h2 {
+  font-family: "Patua One", serif;
   color: #5d8432;
-  text-transform: uppercase
+  text-transform: uppercase;
 }
+
 figcaption {
+  font-family: "Patua One", serif;
   font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
+
 nav {
+  font-family: "Patua One", serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
+
 nav ol {
+  font-family: "Patua One", serif;
   list-style-type: none;
 }
+
 nav a {
+  font-family: "Patua One", serif;
   color: #793284;
   text-decoration: none;
 }
+
 nav a:hover {
+  font-family: "Patua One", serif;
   color: #b42885;
   text-decoration: underline;
 }
+
 .intro {
+  font-family: "Patua One", serif;
   font-size: 1rem;
 }
